@@ -77,8 +77,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bunheang360&icon=0&color=5" alt="Profile Visit Count" />
-</p>
-
 <!-- Created with ❤️ using GPRM (https://gprm.itsvg.in) -->
