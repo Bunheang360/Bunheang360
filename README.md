@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi there, I'm Bunheang<br><br>🧑‍💻 I’m a Software Engineer aspiring to become a Full-Stack Developer<br>🧑‍🎓 Currently a 2nd Year University Student<br>🏫 Studied Computer Science at Cambodia Academy of Digital and Technology (CADT)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Chheng+Bunheang;Full-Stack+Developer" alt="Typing SVG" />
+</div>
+🧑‍💻 I’m a Software Engineer aspiring to become a Full-Stack Developer<br>🧑‍🎓 Currently a 2nd Year University Student<br>🏫 Studied Computer Science at Cambodia Academy of Digital and Technology (CADT)
 
 
 ## 🌐 Socials:
