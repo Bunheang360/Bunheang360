@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 2nd Year Computer Science Student at **Cambodia Academy of Digital Technology (CADT)**
+- 🎓 3rd Year Computer Science Student at **Cambodia Academy of Digital Technology (CADT)**
 - 💼 Aspiring **Full-Stack Developer** focused on modern web technologies
 - 🔭 I’m currently exploring:
   - Web development (React, Express, MySQL, MongoDB)
