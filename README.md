@@ -12,7 +12,8 @@
 - 🔭 I’m currently exploring:
   - Web development (React, Express, MySQL, MongoDB)
   - Backend APIs & Authentication
-  - Freelancing & Open Source
+  - Game Development
+  - Mobile Development (Flutter)
 - ⚽ I also enjoy football and design as hobbies!
 
 ---
